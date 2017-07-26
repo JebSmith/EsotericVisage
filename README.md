@@ -1,6 +1,6 @@
 # EsotericVisage
 Stealth remote administration tool 
-```python
+```javascript
 +-------+
 | Local |
 +-------+
