@@ -22,3 +22,8 @@ Stealth remote administration tool
             |                     | 
             +--------------api.telegram.org-------------Telegram client
 ```
+*Features*
+----------
+* Will support webcam snapshots, screenshots, keylogging, password recovery, download and execute, and remote command execution.
+* Will be supported on win XP-10
+
