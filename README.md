@@ -1,5 +1,6 @@
 # EsotericVisage
 Stealth remote administration tool 
+```python
 +-------+
 | Local |
 +-------+
@@ -20,3 +21,4 @@ Stealth remote administration tool
             |    Use sendMessage and getUpdates for c&c
             |                     | 
             +--------------api.telegram.org-------------Telegram client
+```
