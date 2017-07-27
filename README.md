@@ -24,6 +24,6 @@ Stealth remote administration tool
 ```
 *Features*
 ----------
-* Will support webcam snapshots, screenshots, keylogging, password recovery, download and execute, and remote command execution.
+* Will support screenshots, keylogging, password recovery, download and execute, and remote command execution.
 * Will be supported on win XP-10
 
