@@ -26,4 +26,12 @@ Stealth remote administration tool
 ----------
 * Will support screenshots, keylogging, password recovery, download and execute, and remote command execution. No webcam capture because that's just plain creepy...
 * Will be supported on win XP-10
+* Currently supports download and exec, remote command execution, and get sysinfo... 
+
+
+*Command Structure*
+-----------
+[TO] [TYPE][ARG1(:=ARG2(if present))] => Base64 Encode
+
+* Ex: ALL SYSINFO(NO ARGS REQUIRED) = QUxMIFNZU0lORk8=  
 
