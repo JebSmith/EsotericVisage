@@ -35,6 +35,6 @@ Stealth remote administration tool
 
 * Ex: ALL SYSINFO(NO ARGS REQUIRED) = QUxMIFNZU0lORk8=  
 
-![alt text]("https://raw.githubusercontent.com/JebSmith/EsotericVisage/master/images/data1.PNG")
+![alt text](https://raw.githubusercontent.com/JebSmith/EsotericVisage/master/images/data1.PNG)
 
-![alt text]("https://raw.githubusercontent.com/JebSmith/EsotericVisage/master/images/data2.PNG")
+![alt text](https://raw.githubusercontent.com/JebSmith/EsotericVisage/master/images/data2.PNG)
