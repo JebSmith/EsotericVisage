@@ -31,9 +31,9 @@ Stealth remote administration tool
 
 *Command Structure*
 -----------
-[TO] [TYPE][ARG1(:=ARG2(if present))] => Base64 Encode
+[TO] [TYPE][ARG1(:=ARG2(if present))] 
 
-* Ex: ALL SYSINFO(NO ARGS REQUIRED) = QUxMIFNZU0lORk8=  
+* Ex: ALL SYSINFO(NO ARGS REQUIRED) 
 
 ![alt text](https://raw.githubusercontent.com/JebSmith/EsotericVisage/master/images/data1.PNG)
 
