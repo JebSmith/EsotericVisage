@@ -28,6 +28,7 @@ Stealth remote administration tool
 * Will be supported on win XP-10
 * Currently supports download and exec (ALL DNEXEC[url:=path]), remote command execution (ALL EXECUTE[cmd]), and get sysinfo... 
 * Https traffic using winhttp...
+* Removed base64... Meh
 
 *Command Structure*
 -----------
