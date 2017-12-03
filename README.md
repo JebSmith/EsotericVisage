@@ -1,4 +1,4 @@
-# EsotericVisage
+# EsotericVisage (oh my god... I've got so much shit going on right now. I don't know if I'll finish this... Feel free to improve I suppose... 
 Stealth remote administration tool 
 ```javascript
 +-------+
